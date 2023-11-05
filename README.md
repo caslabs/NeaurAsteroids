@@ -1,2 +1,2 @@
 # NeaurAsteroids
-IN THE MAKING
+NASA's IRTF Research
